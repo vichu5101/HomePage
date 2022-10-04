@@ -233,6 +233,7 @@ nav.menu-btn{
         display: grid;
         grid-template-columns: 180px auto;
         justify-content: unset;
+        position: unset;
     }
 
     .navbar nav{
@@ -323,7 +324,7 @@ nav.menu-btn{
         position: relative;
     }
     .features-section img{
-        display: block;
+        display:block;
         position: absolute;
         right: 0;
         width: 350px;

@@ -218,6 +218,7 @@ nav.menu-btn {
     display: grid;
     grid-template-columns: 180px auto;
     justify-content: unset;
+    position: unset;
   }
   .navbar nav {
     display: flex;
